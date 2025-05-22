@@ -92,6 +92,12 @@ Utilizamos <strong>Machine Learning</strong> para el análisis estadístico y pr
   <a href="mailto:kike14bm@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
   </a> 
+  <a href="https://www.instagram.com/kike14bm/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> 
+  </a> 
+  <a href="https://twitter.com/kike14bm" target="_blank"> 
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"/> 
+  </a> 
 </p>
 
 <p align="center">💬 Siempre dispuesto a aprender, colaborar y crear cosas nuevas donde la tecnología y el deporte se unan.</p>
