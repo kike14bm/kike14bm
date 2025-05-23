@@ -67,7 +67,7 @@
 
 ---
 ## 🔥 Mi actividad en GitHub
-[![GitHub Streak](https://streak-stats.demolab.com?user=kike14bm&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
 
 ## 🧪 Proyectos destacados
 ### 🏀 Modelo Predictivo NBA 🇺🇸
